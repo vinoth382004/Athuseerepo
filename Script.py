@@ -6,7 +6,7 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a>, I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ: {}
-✯ Cʀᴇᴀᴛᴏʀ: <a href='https://t.me/Movies_2k21_bot'>ᴀɴᴀɴᴅ 2🄺</a>
+✯ Cʀᴇᴀᴛᴏʀ: <a href='http://t.me/Advisor_2k_bot'>ᴀɴᴀɴᴅ 2🄺</a>
 ✯ Lɪʙʀᴀʀʏ: <a href='https://docs.pyrogram.org/'>Pʏʀᴏɢʀᴀᴍ</a>
 ✯ Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org/download/releases/3.0/'>Pʏᴛʜᴏɴ 3</a>
 ✯ DᴀᴛᴀBᴀsᴇ: <a href='https://www.mongodb.com/'>MᴏɴɢᴏDB</a>
@@ -15,7 +15,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     SOURCE_TXT = """<b>ɴᴏᴛᴇ:
 - ᴛʜɪꜱ ʙᴏᴛ ɪꜱ ᴀɴ ɴᴏᴛ ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ ᴘʀᴏᴊᴇᴄᴛ.
-- ꜱᴏᴜʀᴄᴇ - <a href="https://t.me/Movies_2k21_bot">ʜᴇʀᴇ</a>
+- ꜱᴏᴜʀᴄᴇ - <a href="http://t.me/Advisor_2k_bot">ʜᴇʀᴇ</a>
 Dᴇᴠᴇʟᴏᴘᴇʀ:
 - <a href="https://t.me/Anand_2K">𒆜 ᴀɴᴀɴᴅ 2🄺࿐</a></b>"""
     
@@ -128,7 +128,7 @@ Nᴀᴍᴇ - {}"""
 
 ᴍᴏᴠɪᴇ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
-ᴇxᴀᴍᴘʟᴇ : varisu or varisu 2023 or varisu tamil
+ᴇxᴀᴍᴘʟᴇ : varisu or varisu 2023 or varisu 2023 tamil
 
 ꜱᴇʀɪᴇꜱ ʀᴇǫᴜᴇꜱᴛ ꜰᴏʀᴍᴀᴛ 👇
 
@@ -148,9 +148,9 @@ Nᴀᴍᴇ - {}"""
     OWNER_INFO = """
 <b>⍟───[ ᴏᴡɴᴇʀ ᴅᴇᴛᴀɪʟꜱ ]───⍟
     
-• ꜰᴜʟʟ ɴᴀᴍᴇ : ᴀɴᴀɴᴛʜᴀ ʀᴀᴍᴜ 𝟸ᴋ
+• ꜰᴜʟʟ ɴᴀᴍᴇ : 𝗔ɴᴀɴᴛʜᴀ 𝗥ᴀᴍᴜ 𝟸𝗞
 • ᴜꜱᴇʀɴᴀᴍᴇ : @Anand_2K
-• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='t.me/Movies_2k21_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
+• ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='http://t.me/Advisor_2k_bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>"""
 
     REQINFO = """
 ⚠ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ ⚠
@@ -207,10 +207,10 @@ Nᴀᴍᴇ - {}"""
 <b>Query: {query}
 IMDb Data:
 
-🏷 Title: <a href={url}>{title}</a>
-🎭 Genres: {genres}
-📆 Year: <a href={url}/releaseinfo>{year}</a>
-🌟 Rating: <a href={url}/ratings>{rating}</a> / 10</b>"""
+🏷 𝚃𝚒𝚃𝚕𝙴: <a href={url}>{title}</a>
+🎭 𝙶𝚎𝚗𝚛𝚎𝚜: {genres}
+📆 𝚈𝚎𝚊𝚛: <a href={url}/releaseinfo>{year}</a>
+🌟 𝚁𝚊𝚝𝚒𝚗𝚐: <a href={url}/ratings>{rating}</a> / 10</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
