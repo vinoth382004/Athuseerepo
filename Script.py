@@ -197,7 +197,7 @@ Nᴀᴍᴇ - {}"""
 
 <b>•────•────────•────•
 🔆𝗥ᴇǫᴜᴇsᴛ 𝗚ʀᴏᴜᴘ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/+xqfxWxoePGs4ZWJl)
-🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ :[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/ARmovies_world)
+🌟𝗠ᴏᴠɪᴇs 𝗖ʜᴀɴɴᴇʟ:[ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://t.me/ARmovies_world)
 •────•────────•────•
 ⚙𝗔ᴅᴠɪsᴏʀ :[ᴀɴᴀɴᴅ 𝟐𝐊࿐](https://t.me/Anand_2K)
 
