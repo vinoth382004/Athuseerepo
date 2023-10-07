@@ -13,9 +13,9 @@ def is_enabled(value, default):
 
 # Bot information
 SESSION = environ.get('SESSION', 'Media_search')
-API_ID = int(environ.get('API_ID','24623095')) 
-API_HASH = environ.get('API_HASH', '5fff43ca4610ca519ed1998ee9cc451e') 
-BOT_TOKEN = environ.get('BOT_TOKEN', '5868399057:AAGxpFZStR0CLdk_haTURIQggm86HJNVpRg') 
+API_ID = int(environ.get('API_ID','23578112')) 
+API_HASH = environ.get('API_HASH', '75544e7e88b51442f91287d048e74199') 
+BOT_TOKEN = environ.get('BOT_TOKEN', '6361970865:AAFHDBl3g2nUKimsvl6l6fqFfPSDLRNH1jY') 
 
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
@@ -42,8 +42,8 @@ SUPPORT_CHAT_ID = int(support_chat_id) if support_chat_id and id_pattern.search(
 NO_RESULTS_MSG = is_enabled((environ.get("NO_RESULTS_MSG", 'False')), False)
 
 # MongoDB information
-DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://boldboyvinoth2020:boldboyvinoth2020@cluster0.1stvkzz.mongodb.net/?retryWrites=true&w=majority")
-DATABASE_NAME = environ.get('DATABASE_NAME', "boldboyvinoth2020")
+DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://balachandranathister3605:balachandranathister3605@cluster0.aljgmpw.mongodb.net/?retryWrites=true&w=majority")
+DATABASE_NAME = environ.get('DATABASE_NAME', "balachandranathister3605")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 
 # Others
@@ -61,7 +61,7 @@ PORT = environ.get("PORT", "8080")
 GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+xqfxWxoePGs4ZWJl')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/ARmovies_world')
 MSG_ALRT = environ.get('MSG_ALRT', 'Wʜᴀᴛ Aʀᴇ Yᴏᴜ Lᴏᴏᴋɪɴɢ Aᴛ ?')
-LOG_CHANNEL = int(environ.get('LOG_CHANNEL','-1001884460413'))
+LOG_CHANNEL = int(environ.get('LOG_CHANNEL','-1001904819437'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'DQ_The_File_Donor_Support')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
